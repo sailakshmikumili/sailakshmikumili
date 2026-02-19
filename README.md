@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Sailaksmi Kumili 👋
 
-<!--
-**sailakshmikumili/sailakshmikumili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data analyst wiht hands on experience in SQL, Excel, Python, and Power BI.
+I enjoy turning raw data into meaningful insoghts and clear visualizations.
 
-Here are some ideas to get you started:
+ ## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL (Joins, CTEs, Window Functions)
+- Excel (Pivot Tables, Dashboards)
+- Power BI (DAX, Data Modeling)
+- Python (Pandas, NumPy)
+
+## Projects
+- Data Analyst Portfolio (SQL, Excel, Power BI, Python)
+- DNA Sequence Analysis Capstone Project
+
+## Projects
+-  Data Analyst Portfolio (SQL, Excel, Power BI, Python)
+-  DNA Sequence Analysis Capstone Project
+
+
+## Connect
+- LinkedIn: www.linkedin.com/in/saikumili
+- Resume: [Dowmload PDF](Sailakshmi_Kumili_Data_Analyst_Resume.pdf)
+
