@@ -21,5 +21,5 @@ I enjoy turning raw data into meaningful insoghts and clear visualizations.
 
 ## Connect
 - LinkedIn: www.linkedin.com/in/saikumili
-- Resume: [Dowmload PDF](Sailakshmi_Kumili_Data_Analyst_Resume.pdf)
+- Resume: [Download PDF](Sailakshmi_Kumili_Data_Analyst_Resume.pdf)
 
